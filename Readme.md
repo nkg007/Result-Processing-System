@@ -1,1 +1,1 @@
-this is a readme file for starting. Now i modify it. Now I again modify it.
+   Result Processing System for universities that follows CGPA based marking and different credits for different subjects
